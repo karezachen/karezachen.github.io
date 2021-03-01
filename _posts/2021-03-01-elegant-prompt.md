@@ -5,8 +5,6 @@ date: 2021-03-01 14:17
 categories: [prompt]
 ---
 
-# 优雅的命令行
-
 ## 预览图
 
 ![优雅的命令行_预览图](http://qiniu.kareza.cn/2021-03-01-elegant-prompt.png)
