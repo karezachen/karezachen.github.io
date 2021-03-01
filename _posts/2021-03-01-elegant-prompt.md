@@ -2,7 +2,7 @@
 layout: post
 title: 优雅的命令行
 date: 2021-03-01 14:17
-categories: [命令行, prompt]
+categories: [prompt]
 ---
 
 # 优雅的命令行
