@@ -34,4 +34,4 @@ sass:
 
 # Build Settings
 markdown: 					kramdown
-permalink: 					weblog/:title/
+permalink: 					blog/:title/
