@@ -1,4 +1,4 @@
 User-agent: *
  Disallow:
 
-Sitemap: https://yuguo.us/sitemap.xml
+Sitemap: https://kareza.cn/sitemap.xml
