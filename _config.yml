@@ -2,7 +2,7 @@
 title: 						"Kareza's Blog"
 url:						"http://kareza.cn"
 email: 						"kareza@qq.com"
-description: 				"修电脑的咖啡师"
+description: 				"修电脑的咖啡师。"
 baseurl: 					""
 logourl: 					"http://img.kareza.cn/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
@@ -10,7 +10,7 @@ fa-logo: 					"fa-camera-retro"
 # Author Settings
 author_name: 				"Kareza"
 author_url: 				"http://kareza.cn"
-author_bio: 				"修电脑的咖啡师"
+author_bio: 				"修电脑的咖啡师。"
 author_email: 				"kareza@qq.com"
 author_image: 				"http://img.kareza.cn/avatar.jpg"
 
