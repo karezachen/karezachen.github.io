@@ -4,7 +4,7 @@ url:						"http://kareza.cn"
 email: 						"kareza@qq.com"
 description: 				"修电脑的咖啡师"
 baseurl: 					""
-logourl: 					"https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/common/avatar.jpg"
+logourl: 					"http://img.kareza.cn/avatar.jpg"
 fa-logo: 					"fa-camera-retro"
 
 # Author Settings
@@ -12,7 +12,7 @@ author_name: 				"Kareza"
 author_url: 				"http://kareza.cn"
 author_bio: 				"修电脑的咖啡师"
 author_email: 				"kareza@qq.com"
-author_image: 				"https://yuguous-10027517.cos.ap-shanghai.myqcloud.com/common/avatar.jpg"
+author_image: 				"http://img.kareza.cn/avatar.jpg"
 
 # Theme Settings
 theme_disqus_shortname: 	"Kareza"
