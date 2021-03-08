@@ -12,25 +12,18 @@ nav: true
 .about-books img {height: 250px; box-shadow: 0 0px 4px #bbb}
 </style>
 
-公众号
-</br>
-<div class="qrcode qrcode2">
-	<img class="qrcode_lt" src="http://qiniu.kareza.cn/about-qrcode.jpeg">
-	<div class="qrcode_rt">
-		<div class="qrcode_rt_logo"></div>
-		<div class="qrcode_rt_name">
-			<i class="qrcode_rt_search"></i>
-			<span class="qrcode_rt_text">
-			Kareza
-			</span> 
-		</div>
-	</div>
-</div>
+待添加内容
 
 ----
 
-### 关于我
+### 简述
 
 待添加内容
 
 - 2019：待添加内容
+
+### 联系方式
+
+#### 公众号
+
+![qrcode](http://qiniu.kareza.cn/about-qrcode.jpg)
