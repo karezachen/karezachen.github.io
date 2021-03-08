@@ -12,19 +12,12 @@ nav: true
 .about-books img {height: 250px; box-shadow: 0 0px 4px #bbb}
 </style>
 
-待添加内容
-
-----
-
-### 简述
-
-待添加内容
-
-- 2019：待添加内容
-
 ----
 
 ### 联系方式
 
 #### 公众号
+
+Kareza
+
 ![qrcode](http://qiniu.kareza.cn/about-qrcode.jpg)
