@@ -18,6 +18,4 @@ nav: true
 
 #### 公众号
 
-Kareza
-
 ![qrcode](http://qiniu.kareza.cn/about-qrcode.png)
