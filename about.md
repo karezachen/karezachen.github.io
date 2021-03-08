@@ -22,8 +22,9 @@ nav: true
 
 - 2019：待添加内容
 
+----
+
 ### 联系方式
 
 #### 公众号
-
 ![qrcode](http://qiniu.kareza.cn/about-qrcode.jpg)
