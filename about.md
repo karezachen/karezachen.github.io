@@ -20,4 +20,4 @@ nav: true
 
 Kareza
 
-![qrcode](http://qiniu.kareza.cn/about-qrcode.jpg)
+![qrcode](http://qiniu.kareza.cn/about-qrcode.png)
