@@ -16,6 +16,4 @@ nav: true
 
 ### 联系方式
 
-#### 公众号
-
 ![qrcode](http://qiniu.kareza.cn/about-qrcode.png)
