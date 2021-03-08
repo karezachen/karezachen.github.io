@@ -15,7 +15,7 @@ nav: true
 公众号
 </br>
 <div class="qrcode qrcode2">
-	<img class="qrcode_lt" src="/misc/getqrcode?fakeid=3575368331&amp;token=692266374">
+	<img class="qrcode_lt" src="http://qiniu.kareza.cn/about-qrcode.jpeg">
 	<div class="qrcode_rt">
 		<div class="qrcode_rt_logo"></div>
 		<div class="qrcode_rt_name">
